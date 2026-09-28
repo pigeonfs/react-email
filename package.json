@@ -1,0 +1,20 @@
+{
+  "name": "@pigeonfs/react-email",
+  "version": "0.1.0",
+  "description": "React components for HTML emails, for use with the Pigeon API",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": ["src", "README.md", "LICENSE"],
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigeonfs/react-email.git"
+  },
+  "license": "MIT"
+}
